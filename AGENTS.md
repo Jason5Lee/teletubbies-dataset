@@ -21,3 +21,4 @@ Guidance:
 ## Python
 
 - Use `uv` to run Python script and add dependency.
+- Put source code under `src`, tests under `tests`.
